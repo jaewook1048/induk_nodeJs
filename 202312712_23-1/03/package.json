@@ -1,0 +1,17 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "main": "03.js",
+
+  "type" : "module",
+  
+  "scripts": {
+    "start": "node 03"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+  
+}
